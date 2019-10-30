@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2017/01/28 14:59:39.855.pas,C:\Users\Roberto\Documents\RAD Studio\Projects\Unit6.pas=D:\_delphi\Medicus\ufrmMenu.pas</Transaction>
+    <Transaction>2017/01/28 14:59:39.855.dfm,C:\Users\Roberto\Documents\RAD Studio\Projects\Unit6.dfm=D:\_delphi\Medicus\ufrmMenu.dfm</Transaction>
+    <Transaction>2017/01/28 15:22:45.686.dproj,C:\Users\Roberto\Documents\RAD Studio\Projects\Project4.dproj=D:\_delphi\Medicus\Medicus.dproj</Transaction>
+    <Transaction>2017/01/28 16:26:36.469.pas,D:\_delphi\Medicus\Unit1.pas=D:\_delphi\Medicus\ufrmCadastro.pas</Transaction>
+    <Transaction>2017/01/28 16:26:36.469.dfm,D:\_delphi\Medicus\Unit1.dfm=D:\_delphi\Medicus\ufrmCadastro.dfm</Transaction>
+    <Transaction>2017/01/28 16:27:26.941.pas,D:\_delphi\Medicus\ufrmCadastro.pas=D:\_delphi\Medicus\ufrmForm.pas</Transaction>
+    <Transaction>2017/01/28 16:27:26.941.dfm,D:\_delphi\Medicus\ufrmCadastro.dfm=D:\_delphi\Medicus\ufrmForm.dfm</Transaction>
+    <Transaction>2017/01/28 16:33:52.826.pas,D:\_delphi\Medicus\Unit1.pas=D:\_delphi\Medicus\udmDados.pas</Transaction>
+    <Transaction>2017/01/28 16:33:52.826.dfm,D:\_delphi\Medicus\Unit1.dfm=D:\_delphi\Medicus\udmDados.dfm</Transaction>
+    <Transaction>2017/01/28 19:14:36.603.pas,D:\_delphi\Medicus\Unit1.pas=D:\_delphi\Medicus\uFuncoes.pas</Transaction>
+    <Transaction>2017/02/04 11:24:00.175.pas,D:\_delphi\Medicus\ufrmFormCadastro.pas=D:\_delphi\Medicus\ufrmCadastro.pas</Transaction>
+    <Transaction>2017/02/04 11:24:00.175.dfm,D:\_delphi\Medicus\ufrmFormCadastro.dfm=D:\_delphi\Medicus\ufrmCadastro.dfm</Transaction>
+    <Transaction>2017/02/11 14:17:01.402.pas,D:\_delphi\Medicus\Unit1.pas=D:\_delphi\Medicus\ufrmUsuario.pas</Transaction>
+    <Transaction>2017/02/11 14:17:01.402.dfm,D:\_delphi\Medicus\Unit1.dfm=D:\_delphi\Medicus\ufrmUsuario.dfm</Transaction>
+    <Transaction>2017/02/12 09:41:07.218.pas,D:\_delphi\Medicus\ufrmUsuario.pas=D:\_delphi\Medicus\ufrmUsuarios.pas</Transaction>
+    <Transaction>2017/02/12 09:41:07.218.dfm,D:\_delphi\Medicus\ufrmUsuario.dfm=D:\_delphi\Medicus\ufrmUsuarios.dfm</Transaction>
+  </Transactions>
+</BorlandProject>
